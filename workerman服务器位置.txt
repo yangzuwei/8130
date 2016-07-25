@@ -1,0 +1,8 @@
+
+位置：/var/www/html/gate
+
+调度服务器：server_transfer.php
+门口机以及视频服务器:server_udp2door3.php
+tcp命令服务器：start.php
+
+启动方式 php XXX服务器.php  start -d （守护进程）
